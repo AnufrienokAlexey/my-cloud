@@ -1,2 +1,2 @@
 # my-cloud
-Проект выложен на сайт https://blacktonptz.store/
+Этот проект Laravel выложен на сайт https://blacktonptz.store/
